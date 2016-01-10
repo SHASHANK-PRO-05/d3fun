@@ -19,6 +19,6 @@ body, html {
 }
 .axis path, .axis line {
 	fill: none;
-	stroke:black;
+	stroke: black;
 	shape-rendering: crispEdges;
 }
