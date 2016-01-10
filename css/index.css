@@ -1,0 +1,24 @@
+body, html {
+	text-align: center;
+	padding: 0;
+	margin: 0;
+	font-family: "Arial", sans-serif;
+	font-size: 0.95em;
+}
+#chart {
+	background-color: #EAD2D2;
+	border: 1px solid #ccc;
+}
+.bars {
+	fill: purple;
+	shape-rendering: crispEdges;
+}
+.bar-labels {
+	text-anchor: end;
+	fill: white;
+}
+.axis path, .axis line {
+	fill: none;
+	stroke:black;
+	shape-rendering: crispEdges;
+}
